@@ -28,7 +28,7 @@
 
 #ifdef _JB_EDIT_
 #include <fstream>
-#define OBJ_NAME_FILE_PATH "/home/vision/project/darknet/data/coco.names"
+#define OBJ_NAME_FILE_PATH "../darknet/data/coco.names"
 #endif
 
 namespace ORB_SLAM2
